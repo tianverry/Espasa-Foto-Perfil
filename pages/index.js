@@ -95,7 +95,7 @@ export default function Home() {
             objectFit="cover"
           />
           <img
-            src="/marcos/espasa2.png"
+            src="/marcos/general.png"
             alt="Marco"
             style={{
               position: 'absolute',
